@@ -127,7 +127,7 @@ var g_SPOffSwitches={};
 <script src='//cdn.appdynamics.com/adrum/adrum-20.12.0.3360.js'></script>
 
     <body ng-app="spApp" class="load-bg dark-top">
-      <img src="https://d21y75miwcfqoq.cloudfront.net/6d93a093" style="position: absolute" referrerpolicy="no-referrer-when-downgrade">
+      
         <div id="imgPrefetch" style="display:none">
 <img src="/_layouts/15/1025/images/zatcaRevamp/favicon.ico?rev=43" />
 </div>
@@ -421,7 +421,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
  
 
                                 <header class="zatca-header">
-                                <img src="https://d21y75miwcfqoq.cloudfront.net/6d93a093" style="position: absolute" referrerpolicy="no-referrer-when-downgrade">
+                                
                                     <div class="zatca-bg1">
                                         <div class="menu-container">
                                             <div class="top-nav">
